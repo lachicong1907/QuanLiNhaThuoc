@@ -1,0 +1,99 @@
+Mã sản phẩm: T001
+Tên sản phẩm: Thuốc Cao Ích Mẫu
+Giá nhập: 45.000 ₫
+Số lượng: 1000
+Nhà cung cấp: OPC
+Thành phần: Ngải cứu, Hương phụ, Ích mẫu
+Công dụng: Điều trị kinh nguyệt không đều
+Giá bán: 42.750 ₫
+
+Mã sản phẩm: T002
+Tên sản phẩm: Thuốc Bổ Phế Chỉ Khái Lộ
+Giá nhập: 52.500 ₫
+Số lượng: 1000
+Nhà cung cấp: TRƯỜNG THỌ
+Thành phần: Bạch linh, Cát cánh,...
+Công dụng: Hỗ trợ điều trị ho cảm, tiêu đờm
+Giá bán: 49.875 ₫
+
+Mã sản phẩm: T003
+Tên sản phẩm: Siro ho Bảo Thanh Hoa Linh
+Giá nhập: 55.000 ₫
+Số lượng: 1000
+Nhà cung cấp: Hoa Linh
+Thành phần: Ô mai, Khổ hạnh nhân,...
+Công dụng: Hỗ trợ trị ho, bổ phế
+Giá bán: 52.250 ₫
+
+Mã sản phẩm: T004
+Tên sản phẩm: Thuốc Hoạt Huyết Nhất Nhất
+Giá nhập: 112.000 ₫
+Số lượng: 1000
+Nhà cung cấp: NHẤT NHẤT
+Thành phần: Xích thược, Xuyên khung, Thục địa, Ngưu tất (Rễ), Đương quy, Ích mẫu
+Công dụng: Hỗ trợ hoạt huyết, điều trị thiểu năng tuần hoàn
+Giá bán: 106.400 ₫
+
+Mã sản phẩm: T005
+Tên sản phẩm: Thuốc Cebraton Traphaco
+Giá nhập: 155.000 ₫
+Số lượng: 1000
+Nhà cung cấp: TRAPHACO
+Thành phần: Đinh lăng,Ginkgo biloba
+Công dụng: Điều trị suy giảm trí nhớ
+Giá bán: 147.250 ₫
+
+Mã sản phẩm: TP001
+Tên sản phẩm: Viên uống Calcium Premium JpanWell
+Giá nhập: 910.000 ₫
+Số lượng: 1000
+Nhà cung cấp: Have fun Factory Co., Ltd
+Thành phần: Canxi từ vỏ sò, Chất xơ hòa tan, Vi khuẩn acid lactic, Magie, Sắt, Vitamin B2, Vitamin B1, Vitamin D3, Vitamin K2
+Công dụng: Bổ sung canxi, vitamin và khoáng chất
+Giá bán: 964.600 ₫
+
+Mã sản phẩm: TP002
+Tên sản phẩm: Viên uống Rama
+Giá nhập: 130.000 ₫
+Số lượng: 1000
+Nhà cung cấp: CÔNG TY TNHH CÔNG NGHỆ HERBITECH
+Thành phần: Cao hỗn hợp thảo mộc, Chiết xuất Mạch môn, chiết xuất cúc tím, Chiết xuất gừng, Chiết xuất xuyên tâm liên, Chiết xuất Trần bì,..
+Công dụng: Hỗ trợ bổ phổi, giảm ho
+Giá bán: 137.800 ₫
+
+Mã sản phẩm: TP003
+Tên sản phẩm: Siro ZinC + Lysin Hatro
+Giá nhập: 145.000 ₫
+Số lượng: 1000
+Nhà cung cấp: PHARVINA
+Thành phần: Lysin hydrochlorid, Gluconal ZN-P, Vitamin B12
+Công dụng: Bổ sung kẽm, tăng sức đề kháng cho cơ thể
+Giá bán: 153.700 ₫
+
+Mã sản phẩm: TP004
+Tên sản phẩm: Viên uống Natto Gold 3000 Fu Royal Care
+Giá nhập: 290.000 ₫
+Số lượng: 1000
+Nhà cung cấp: HD PHARMA
+Thành phần: Coenzyme Q10, Acid folic, Vitamin B1, Kẽm Gluconat, Rutin, DHA 10%, Sữa ong chúa, Sắt fumarate, Đinh lăng, Rau đắng biển, Magnesi oxyd, Men gạo đỏ, Cao giảo cổ lam, Bạch quả, Nattokinase
+Công dụng: Hỗ trợ tăng cường tuần hoàn não
+Giá bán: 307.400 ₫
+
+Mã sản phẩm: TP005
+Tên sản phẩm: Viên uống Active Liver Plus New Nordic
+Giá nhập: 420.000 ₫
+Số lượng: 1100
+Nhà cung cấp: LEGOSAN AB
+Thành phần: Atisô, Kế sữa, Nghệ
+Công dụng: Hỗ trợ tăng cường chức năng gan
+Giá bán: 445.200 ₫
+
+Mã sản phẩm: T100
+Tên sản phẩm: CHi Cong
+Giá nhập: 60,000 ₫
+Số lượng: 1
+Nhà cung cấp: Toan Nang
+Thành phần: a,b,c
+Công dụng: Tang cuong sinh ly
+Giá bán: 57,000 ₫
+

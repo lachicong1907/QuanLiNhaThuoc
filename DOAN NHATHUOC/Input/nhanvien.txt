@@ -1,0 +1,24 @@
+Mã nhân viên: NV005
+Họ và tên: huy
+Vị trí: Kho
+Lương: 439.500 ₫
+
+Mã nhân viên: NV001
+Họ và tên: HUY
+Vị trí: Kho
+Lương: 300.000 ₫
+
+Mã nhân viên: NV002
+Họ và tên: CÔNG
+Vị trí: Ban hang
+Lương: 300.000 ₫
+
+Mã nhân viên: NV004
+Họ và tên: AN
+Vị trí: Kho
+Lương: 300.000 ₫
+
+Mã nhân viên: NV003
+Họ và tên: KHANG
+Vị trí: Ban hang
+Lương: 300.000 ₫

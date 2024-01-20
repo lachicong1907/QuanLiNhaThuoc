@@ -1,0 +1,20 @@
+Mã khách hàng: KH003
+Tên khách hàng: 30
+Ngày tháng năm sinh: 21
+
+Mã khách hàng: KH002
+Tên khách hàng: Vu
+Ngày tháng năm sinh: 29/10/1999
+
+Mã khách hàng: KH004
+Tên khách hàng: Hoang
+Ngày tháng năm sinh: 4/8/2006
+
+Mã khách hàng: KH005
+Tên khách hàng: Tuan Anh
+Ngày tháng năm sinh: 20/11/1996
+
+Mã khách hàng: KH006
+Tên khách hàng: Toan
+Ngày tháng năm sinh: 22/5/1997
+

@@ -1,0 +1,66 @@
+Mã hóa đơn: D001
+Ngày tạo hóa đơn: 27/11/2023
+Khách hàng: HOANG
+Nhân viên tạo hóa đơn: HUY
+[Mã sản phẩm: T001
+Tên sản phẩm: Thuốc Cao Ích Mẫu
+Số lượng: 2
+Thành tiền: 85.500 ₫
+Tổng cộng: 85.500 ₫
+]
+Mã hóa đơn: D002
+Ngày tạo hóa đơn: 27/11/2023
+Khách hàng: DUY
+Nhân viên tạo hóa đơn: KHANG
+[Mã sản phẩm: T002
+Tên sản phẩm: Thuốc Bổ Phế Chỉ Khái Lộ
+Số lượng: 1
+Thành tiền: 49.875 ₫
+Mã sản phẩm: TP001
+Tên sản phẩm: Viên uống Calcium Premium JpanWell
+Số lượng: 1
+Thành tiền: 964.600 ₫
+Tổng cộng: 1.014.475 ₫
+]
+Mã hóa đơn: D003
+Ngày tạo hóa đơn: 25/11/2023
+Khách hàng: DUNG
+Nhân viên tạo hóa đơn: BAO
+[Mã sản phẩm: T005
+Tên sản phẩm: Thuốc Cebraton Traphaco
+Số lượng: 1
+Thành tiền: 147.250 ₫
+Mã sản phẩm: TP005
+Tên sản phẩm: Viên uống Active Liver Plus New Nordic
+Số lượng: 1
+Thành tiền: 445.200 ₫
+Tổng cộng: 592.450 ₫
+]
+Mã hóa đơn: D004
+Ngày tạo hóa đơn: 20/11/2023
+Khách hàng: VU
+Nhân viên tạo hóa đơn: CONG
+[Mã sản phẩm: T004
+Tên sản phẩm: Thuốc Hoạt Huyết Nhất Nhất
+Số lượng: 1
+Thành tiền: 106.400 ₫
+Mã sản phẩm: TP004
+Tên sản phẩm: Viên uống Natto Gold 3000 Fu Royal Care
+Số lượng: 1
+Thành tiền: 307.400 ₫
+Tổng cộng: 413.800 ₫
+]
+Mã hóa đơn: D005
+Ngày tạo hóa đơn: 20/11/2023
+Khách hàng: CUONG 
+Nhân viên tạo hóa đơn: AN
+[Mã sản phẩm: T002
+Tên sản phẩm: Thuốc Bổ Phế Chỉ Khái Lộ
+Số lượng: 1
+Thành tiền: 49.875 ₫
+Mã sản phẩm: TP003
+Tên sản phẩm: Siro ZinC + Lysin Hatro
+Số lượng: 2
+Thành tiền: 307.400 ₫
+Tổng cộng: 357.275 ₫
+]
